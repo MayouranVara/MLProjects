@@ -2,4 +2,4 @@
 
 
 
-[test](Prediction of Wine quality.html)
+[test](Prediction of Wine quality .html).
