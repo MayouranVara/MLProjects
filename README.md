@@ -2,4 +2,5 @@
 
 
 
-[test](Prediction of Wine quality .ipynb).
+[test](Prediction%20of%20Wine%20quality%20.ipynb)
+
