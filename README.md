@@ -2,5 +2,5 @@
 
 
 
-[test](Prediction%20of%20Wine%20quality%20.ipynb)
+[test](Prediction%20of%20Wine%20quality%20.html)
 
